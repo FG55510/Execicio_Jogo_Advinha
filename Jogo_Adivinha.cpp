@@ -47,4 +47,4 @@ int main(){
     return 0;
 }
 
-/*O construstor pode ser utilizado em um jogo para a criacao de objetos similares ou identicos, por exemplo a criacao de inimigos com dinamicas parecidas, como movimentacao e animacao de ataque, ou poderes que tenham um ataque similar, com o objetivo de economizar memoria e melhorar a performance do jogo, *\
+/*O construstor pode ser utilizado em um jogo para a criacao de objetos similares ou identicos, por exemplo a criacao de inimigos com dinamicas parecidas, como movimentacao e animacao de ataque, ou poderes que tenham um ataque similar, com o objetivo de economizar memoria e melhorar a performance do jogo e facilitar seu desenvolvimento.*/
